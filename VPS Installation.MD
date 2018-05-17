@@ -1,4 +1,4 @@
-**Newbie Guide to Linux/Ubuntu, Apache, Python, [Mongo] Stack**
+**Newbie Guide to Linux/Ubuntu, Apache, Python, [Mongo Stack]**
 
 Install Ubuntu 16.04 image on vps
 Login as root
