@@ -20,11 +20,14 @@ Install Python/Apache Tools
 ```apt-get install python-setuptools libapache2-mod-wsgi```
 
 Restart Server
-```service apache2 restart```
+```
+service apache2 restart
+```
 
 Add Spotipy Spotify Python Library
 https://github.com/plamere/spotipy
 
+```
 apt install python-pip
 lspip install --upgrade pip
-pip install spotipy
+pip install spotipy```
