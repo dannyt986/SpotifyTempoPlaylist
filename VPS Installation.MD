@@ -6,22 +6,26 @@ Login as root
 
 Update Ubuntu
 ```
-apt-get update && apt-get upgrade```
+apt-get update && apt-get upgrade
+```
 
 Credits
 https://blog.udacity.com/2015/03/step-by-step-guide-install-lamp-linux-apache-mysql-python-ubuntu.html
 
 Install Apache
 ```
-sudo apt-get install apache2```
+sudo apt-get install apache2
+```
 
 Test for Apache Default Page in Browser or
 ```
-curl localhost```
+curl localhost
+```
 
 Install Python/Apache Tools
 ```
-apt-get install python-setuptools libapache2-mod-wsgi```
+apt-get install python-setuptools libapache2-mod-wsgi
+```
 
 Restart Server
 ```
@@ -39,8 +43,10 @@ pip install spotipy
 
 Spotipy Dependency
 ```
-Block```
+Block
+```
 
 ```
-Block```
+Block
+```
 
