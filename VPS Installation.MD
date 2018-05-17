@@ -34,7 +34,8 @@ https://github.com/plamere/spotipy
 ```
 apt install python-pip
 lspip install --upgrade pip
-pip install spotipy```
+pip install spotipy
+```
 
 Spotipy Dependency
 ```
