@@ -37,13 +37,13 @@ https://github.com/plamere/spotipy
 
 ```
 apt install python-pip
-lspip install --upgrade pip
 pip install spotipy
 ```
+**Do not update pip to version 10**
 
 Spotipy Dependency
 ```
-Block
+pip install spotipy
 ```
 
 ```
